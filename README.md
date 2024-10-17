@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   </div>
 </div>
 
-## Projects 🖥️
+## Projects 💻
 
 | Class | Name | Languages/Softwares | Grade |
 | --- | --- | --- | --- |
