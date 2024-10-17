@@ -39,12 +39,12 @@ Here are some ideas to get you started:
 | [PFL] Programação Funcional e em Lógica | [Hadron](https://github.com/franciscaguimaraes/FEUP-PFL/tree/main/Project2) | Prolog | 18.50 |
 | [RCOM] Redes de Computadores | [Ligação de Dados](https://github.com/franciscaguimaraes/FEUP-RCOM/tree/main/project1) | C | 17.00 |
 | [RCOM] Redes de Computadores | [Rede de Computadores](https://github.com/franciscaguimaraes/FEUP-RCOM/tree/main/project2)| C | 18.00 |
-| [FSI] Fundamentos de Segurança Informática | [Labs](https://github.com/franciscaguimaraes/FEUP-RCOM/tree/main/project2)| C | 19.60 |
+| [FSI] Fundamentos de Segurança Informática | [Labs](https://github.com/franciscaguimaraes/FEUP-RCOM/tree/main/project2)| C, CTFs | 19.60 |
 | [IPC] Interação Pessoa Computador | [ShowUP](https://github.com/franciscaguimaraes/FEUP-IPC)| Figma | 17.40 |
 | [COMP] Compiladores | [Compilador](https://github.com/franciscaguimaraes/FEUP-COMP)| Java | 18.29 |
-| [CPD] Computação Paralela e Distribuída | [Performance Evaluation of a Single Core](https://github.com/franciscaguimaraes/FEUP-CPD/tree/main/assign1)| Java | 15.20 |
+| [CPD] Computação Paralela e Distribuída | [Performance Evaluation of a Single Core](https://github.com/franciscaguimaraes/FEUP-CPD/tree/main/assign1)| C\C++. Java, PAPI | 15.20 |
 | [CPD] Computação Paralela e Distribuída | [Client-Server System for Online Game](https://github.com/franciscaguimaraes/FEUP-CPD/tree/main/assign2)| Java | 17.70 |
-| [CG] Computação Gráfica | [Bee Project](https://github.com/franciscaguimaraes/FEUP-CG)| JavaScript, WebcCGF | 19.00 |
+| [CG] Computação Gráfica | [Bee Project](https://github.com/franciscaguimaraes/FEUP-CG)| JavaScript, WebCGF | 19.00 |
 | [IA] Inteligência Artificial | [Focus](https://github.com/franciscaguimaraes/FEUP-IA/tree/master/assignment1)| Python | 19.50 |
 | [IA] Inteligência Artificial | [Breast Cancer Dataset](https://github.com/franciscaguimaraes/FEUP-IA/tree/master/assignment2)| Jupyter Notebook | 20.00 |
 | [PI] Projeto Integrador | KeyVault Hub | .NET C#, React | 18.00 |
